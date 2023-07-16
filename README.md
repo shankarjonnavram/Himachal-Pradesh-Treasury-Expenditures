@@ -21,6 +21,6 @@ The project is organized as follows:
 
 ### Airflow DAG Setup 
 
-- Add the budget_dataset directory in the airflow_dags directory.
+- Add the budget_dataset directory in the airflow dags directory.
 - Changing the project_path in `budget_dataset/airflow_dags/web_to_sqldb_pipeline.py` python file to dags path by adding project_name(`budget_dataset`) in the path
 - Also , we need to provide the same path for `project_path` variable in `budget_dataset/budget_dataset/spiders/budget.py` file in spiders directory
