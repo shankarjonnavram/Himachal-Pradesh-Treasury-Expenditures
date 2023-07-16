@@ -1,6 +1,6 @@
 # Himachal-Pradesh-Treasury-Expenditures
 
-This project demonstrates how to scrape data from a website, store it in a CSV file, and then load it into a SQLite database using Python, Scrapy, SQLite, and Apache Airflow.
+This project demonstrates scraping data from a website, store it in a CSV file, and then load it into a SQLite database using Python, Scrapy, SQLite, and Apache Airflow.
 
 ### About the source
 The state of Himachal Pradesh uses an Integrated Financial Management system to manage and disseminate various reports related to the state treasury department. The web platform contains several important reports which one can use to analyze the expenditures of the state government. 
